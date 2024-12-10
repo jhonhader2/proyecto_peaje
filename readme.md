@@ -12,7 +12,7 @@ Este proyecto es un sistema de peaje automatizado que gestiona vehículos, tarif
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/jhonhader2/proyecto_peaje.git
-   cd peaje_automatizado
+   cd proyecto_peaje
    ```
 
 2. Instala las dependencias necesarias:
